@@ -1,0 +1,6 @@
+@WebSiteStatusChecker_HostAddress = http://localhost:5095
+
+GET {{WebSiteStatusChecker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

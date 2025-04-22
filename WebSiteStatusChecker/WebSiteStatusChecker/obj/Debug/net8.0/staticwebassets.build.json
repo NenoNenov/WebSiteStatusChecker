@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "txcwRdgFZdPnho8oymj0UESw+XEIXIn1tuhPpzfXLY8=",
+  "Source": "WebSiteStatusChecker",
+  "BasePath": "_content/WebSiteStatusChecker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebSiteStatusChecker\\wwwroot",
+      "Source": "WebSiteStatusChecker",
+      "ContentRoot": "D:\\VS\\HomeWork\\WebSiteStatusChecker\\WebSiteStatusChecker\\wwwroot\\",
+      "BasePath": "_content/WebSiteStatusChecker",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\VS\\HomeWork\\WebSiteStatusChecker\\WebSiteStatusChecker\\wwwroot\\index.html",
+      "SourceId": "WebSiteStatusChecker",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VS\\HomeWork\\WebSiteStatusChecker\\WebSiteStatusChecker\\wwwroot\\",
+      "BasePath": "_content/WebSiteStatusChecker",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

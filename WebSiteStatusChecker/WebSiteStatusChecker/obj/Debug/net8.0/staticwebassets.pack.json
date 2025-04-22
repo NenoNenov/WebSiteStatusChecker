@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\VS\\HomeWork\\WebSiteStatusChecker\\WebSiteStatusChecker\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebSiteStatusChecker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebSiteStatusChecker.props",
+      "PackagePath": "build\\WebSiteStatusChecker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebSiteStatusChecker.props",
+      "PackagePath": "buildMultiTargeting\\WebSiteStatusChecker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebSiteStatusChecker.props",
+      "PackagePath": "buildTransitive\\WebSiteStatusChecker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
